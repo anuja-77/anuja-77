@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuja Sanjay Ahire</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img src="[url](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw21xuxS1XNWWJdoq2KDE8AK&ust=1709636231099000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND3zr252oQDFQAAAAAdAAAAABAW)" alt="Profile image">
+<img src="image.gif" alt="Profile image">
 - 🌱 I’m currently learning **Linux,AWS**
 
 - 💬 Ask me about **Android, CCNA**
