@@ -6,7 +6,7 @@
 
 - 🔭I'm currently studying **Computer Science**
 
-- 📚 I’m learning **Linux,AWS**
+- 📚 I’m learning **DevOps**
 
 - 💬 Ask me about **Android, CCNA**
 
